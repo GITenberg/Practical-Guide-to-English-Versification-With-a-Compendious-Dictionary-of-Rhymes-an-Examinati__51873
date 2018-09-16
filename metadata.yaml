@@ -1,0 +1,34 @@
+_repo: Practical-Guide-to-English-Versification-With-a-Compendious-Dictionary-of-Rhymes-an-Examinati__51873
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hood, Tom
+    aliases:
+    - Hood, Thomas
+    - Hood, T. (Thomas)
+    birthdate: 1835
+    deathdate: 1874
+    gutenberg_agent_id: '42752'
+    url: http://www.gutenberg.org/2009/agents/42752
+description: ''
+gutenberg_issued: '2016-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Versification'
+- !lcc 'PE'
+- !lcsh 'English language -- Rhyme'
+- GITenberg
+title: 'Practical Guide to English Versification
+
+  With a Compendious Dictionary of Rhymes, an Examination
+
+  of Classical Measures, and Comments Upon Burlesque and
+
+  Comic Verse, Vers de Société, and Song-writing'
+url: http://www.gutenberg.org/ebooks/51873
